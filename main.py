@@ -28,14 +28,4 @@ while True:
 rez_1=NOD(a, b)
 rez_2=gcd(a,b)
 print(f'НОД чисел {a}, {b} равен {rez_1} = {rez_2}')
-
-
-# for _ in range(1000):
-#     a=randint(1,10000)
-#     b=randint(1,10000)
-#     rez_1=NOD(a, b)
-#     rez_2=gcd(a,b)
-#     # if rez_1!=rez_2:
-#     #     print('+')
-#     print(f'НОД чисел {a}, {b} равен {rez_1}')
-
+print("это модифицированный проект :)")
